@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#virtualenv -p /opt/local/bin/python3 pycon-env
+virtualenv -p /opt/local/bin/python3 pycon-env
 source pycon-env/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
