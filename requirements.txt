@@ -1,4 +1,8 @@
 pandas
+matplotlib
 #"dask[complete]"
 graphviz
 jupyter
+h5py
+xarray
+seaborn
