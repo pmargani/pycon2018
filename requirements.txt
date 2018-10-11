@@ -6,3 +6,4 @@ jupyter
 h5py
 xarray
 seaborn
+bokeh
